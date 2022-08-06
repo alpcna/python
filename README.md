@@ -1,11 +1,3 @@
-# python
-
-Hello Dear My Followers,
-I am learning python and also coding automation,scanner,checker etc. tools.
-For more follow my "python" repository.
-
-
-
 from time import sleep
 
 class whoami():
@@ -44,6 +36,3 @@ sleep(1)
 certificate.certificates()
 sleep(2)
 print("Thank you for reading ^^ ")
-
-
-
